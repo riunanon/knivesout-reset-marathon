@@ -3,5 +3,5 @@
 
 install
 ```
-pip install git+https://github.com/riunanon/knivesout-reset-marathon-shortcut-keyboard-pythonista3
+pip install git+https://github.com/riunanon/knivesout-reset-marathon-shortcut-keyboard-pythonista3/blob/main/knivesout.py
 ```
