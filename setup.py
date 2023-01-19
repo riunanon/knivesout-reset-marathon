@@ -18,7 +18,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     entry_points = {
-        'knivesout': ['knivesout = knivesout.knivesout:main']
+        'console_scripts': ['knivesout = knivesout.knivesout:main']
     },
     python_requires='>=3.7',
 )
