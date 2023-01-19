@@ -10,10 +10,8 @@ setuptools.setup(
     description="reset marathon tool",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/riunanon/knivesout-reset-marathon-shortcut-keyboard-pythonista3",
-    packages=[
-        "knivesout",
-    ],
+    url="https://github.com/riunanon/knivesout-reset-marathon",
+    packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
