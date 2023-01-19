@@ -1,1 +1,1 @@
-'__main__'
+from knivesout import *
