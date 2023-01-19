@@ -17,8 +17,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    entry_points = {
-        'console_scripts': ['knivesout = knivesout.knivesout:main']
-    },
     python_requires='>=3.7',
 )
