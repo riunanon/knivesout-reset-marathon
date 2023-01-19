@@ -11,7 +11,6 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/riunanon/knivesout-reset-marathon-shortcut-keyboard-pythonista3",
-    packages=setuptools.find_packages(),
     packages=[
         "knivesout",
     ],
